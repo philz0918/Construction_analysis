@@ -1,0 +1,11 @@
+,Words,Similarity
+0,building and collapse,0.554
+1,building and fire,0.525
+2,building and people ,-0.144
+3,building and fell,0.443
+4,collapse and fell,0.951
+5,collapse and people,0.510
+6,fire and collapse,0.691
+7,fire and fell,0.728
+8,fire and people,0.331
+9,people and fell,0.486
