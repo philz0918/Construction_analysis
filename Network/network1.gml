@@ -1,23 +1,23 @@
 graph [
   node [
     id 0
-    label "fire"
+    label "Fire"
   ]
   node [
     id 1
-    label "fell"
+    label "Fell"
   ]
   node [
     id 2
-    label "collapse"
+    label "Collapsed"
   ]
   node [
     id 3
-    label "building"
+    label "Building"
   ]
   node [
     id 4
-    label "people"
+    label "People"
   ]
   node [
     id 5
@@ -125,422 +125,442 @@ graph [
   ]
   node [
     id 31
-    label "working"
+    label "fell"
   ]
   node [
     id 32
-    label "said"
+    label "working"
   ]
   node [
     id 33
-    label "tuesday"
+    label "said"
   ]
   node [
     id 34
-    label "site"
+    label "tuesday"
   ]
   node [
     id 35
-    label "crash"
+    label "site"
   ]
   node [
     id 36
-    label "morning"
+    label "crash"
   ]
   node [
     id 37
-    label "debris"
+    label "morning"
   ]
   node [
     id 38
-    label "side"
+    label "debris"
   ]
   node [
     id 39
-    label "left"
+    label "side"
   ]
   node [
     id 40
-    label "thursday"
+    label "left"
   ]
   node [
     id 41
-    label "across"
+    label "collapse"
   ]
   node [
     id 42
-    label "center"
+    label "thursday"
   ]
   node [
     id 43
-    label "top"
+    label "across"
   ]
   node [
     id 44
-    label "accident"
+    label "center"
   ]
   node [
     id 45
-    label "avenue"
+    label "top"
   ]
   node [
     id 46
-    label "office"
+    label "accident"
   ]
   node [
     id 47
-    label "district"
+    label "avenue"
   ]
   node [
     id 48
-    label "told"
+    label "office"
   ]
   node [
     id 49
-    label "second"
+    label "district"
   ]
   node [
     id 50
-    label "took"
+    label "told"
   ]
   node [
     id 51
-    label "official"
+    label "second"
   ]
   node [
     id 52
-    label "street"
+    label "took"
   ]
   node [
     id 53
-    label "mr."
+    label "official"
   ]
   node [
     id 54
-    label "ground"
+    label "street"
   ]
   node [
     id 55
-    label "occurred"
+    label "mr."
   ]
   node [
     id 56
-    label "concrete"
+    label "ground"
   ]
   node [
     id 57
-    label "injured"
+    label "occurred"
   ]
   node [
     id 58
-    label "began"
+    label "concrete"
   ]
   node [
     id 59
-    label "brooklyn"
+    label "injured"
   ]
   node [
     id 60
-    label "charges"
+    label "began"
   ]
   node [
     id 61
-    label "west"
+    label "brooklyn"
   ]
   node [
     id 62
-    label "away"
+    label "charges"
   ]
   node [
     id 63
-    label "area"
+    label "west"
   ]
   node [
     id 64
-    label "car"
+    label "away"
   ]
   node [
     id 65
-    label "j."
+    label "area"
   ]
   node [
     id 66
-    label "east"
+    label "car"
   ]
   node [
     id 67
-    label "steel"
+    label "j."
   ]
   node [
     id 68
-    label "mayor"
+    label "east"
   ]
   node [
     id 69
-    label "news"
+    label "steel"
   ]
   node [
     id 70
-    label "ms."
+    label "mayor"
   ]
   node [
     id 71
-    label "wall"
+    label "news"
   ]
   node [
     id 72
-    label "department"
+    label "ms."
   ]
   node [
     id 73
-    label "several"
+    label "wall"
   ]
   node [
     id 74
-    label "hours"
+    label "department"
   ]
   node [
     id 75
-    label "involved"
+    label "several"
   ]
   node [
     id 76
-    label "manhattan"
+    label "hours"
   ]
   node [
     id 77
-    label "house"
+    label "involved"
   ]
   node [
     id 78
-    label "came"
+    label "manhattan"
   ]
   node [
     id 79
-    label "place"
+    label "house"
   ]
   node [
     id 80
-    label "right"
+    label "came"
   ]
   node [
     id 81
-    label "commissioner"
+    label "building"
   ]
   node [
     id 82
-    label "near"
+    label "place"
   ]
   node [
     id 83
-    label "march"
+    label "right"
   ]
   node [
     id 84
-    label "died"
+    label "commissioner"
   ]
   node [
     id 85
-    label "seven"
+    label "near"
   ]
   node [
     id 86
-    label "men"
+    label "march"
   ]
   node [
     id 87
-    label "feet"
+    label "died"
   ]
   node [
     id 88
-    label "killed"
+    label "seven"
   ]
   node [
     id 89
-    label "tower"
+    label "men"
   ]
   node [
     id 90
-    label "cars"
+    label "feet"
   ]
   node [
     id 91
-    label "around"
+    label "killed"
   ]
   node [
     id 92
-    label "caused"
+    label "fire"
   ]
   node [
     id 93
-    label "workers"
+    label "tower"
   ]
   node [
     id 94
-    label "one"
+    label "cars"
   ]
   node [
     id 95
-    label "day"
+    label "around"
   ]
   node [
     id 96
-    label "another"
+    label "caused"
   ]
   node [
     id 97
-    label "15"
+    label "workers"
   ]
   node [
     id 98
-    label "along"
+    label "one"
   ]
   node [
     id 99
-    label "two"
+    label "day"
   ]
   node [
     id 100
-    label "crane"
+    label "another"
   ]
   node [
     id 101
-    label "others"
+    label "15"
   ]
   node [
     id 102
-    label "five"
+    label "along"
   ]
   node [
     id 103
-    label "days"
+    label "two"
   ]
   node [
     id 104
-    label "30"
+    label "crane"
   ]
   node [
     id 105
-    label "least"
+    label "others"
   ]
   node [
     id 106
-    label "six"
+    label "five"
   ]
   node [
     id 107
-    label "train"
+    label "days"
   ]
   node [
     id 108
-    label "bridge"
+    label "30"
   ]
   node [
     id 109
-    label "south"
+    label "least"
   ]
   node [
     id 110
-    label "equipment"
+    label "six"
   ]
   node [
     id 111
-    label "known"
+    label "train"
   ]
   node [
     id 112
-    label "four"
+    label "bridge"
   ]
   node [
     id 113
-    label "&#151;"
+    label "south"
   ]
   node [
     id 114
-    label "residents"
+    label "equipment"
   ]
   node [
     id 115
-    label "including"
+    label "known"
   ]
   node [
     id 116
-    label "cranes"
+    label "four"
   ]
   node [
     id 117
-    label "inspectors"
+    label "&#151;"
   ]
   node [
     id 118
-    label "issued"
+    label "residents"
   ]
   node [
     id 119
-    label "city"
+    label "including"
   ]
   node [
     id 120
-    label "contractor"
+    label "people"
   ]
   node [
     id 121
-    label "violations"
+    label "cranes"
   ]
   node [
     id 122
-    label "former"
+    label "inspectors"
   ]
   node [
     id 123
-    label "company"
+    label "issued"
   ]
   node [
     id 124
-    label "contractors"
+    label "city"
   ]
   node [
     id 125
-    label "engineers"
+    label "contractor"
   ]
   node [
     id 126
-    label "sites"
+    label "violations"
   ]
   node [
     id 127
-    label "construction"
+    label "former"
   ]
   node [
     id 128
-    label "according"
+    label "company"
   ]
   node [
     id 129
-    label "york"
+    label "contractors"
   ]
   node [
     id 130
-    label "safety"
+    label "engineers"
   ]
   node [
     id 131
-    label "times"
+    label "sites"
   ]
   node [
     id 132
-    label "work"
+    label "construction"
   ]
   node [
     id 133
-    label "used"
+    label "according"
   ]
   node [
     id 134
-    label "three"
+    label "york"
   ]
   node [
     id 135
+    label "safety"
+  ]
+  node [
+    id 136
+    label "times"
+  ]
+  node [
+    id 137
+    label "work"
+  ]
+  node [
+    id 138
+    label "used"
+  ]
+  node [
+    id 139
+    label "three"
+  ]
+  node [
+    id 140
     label "members"
   ]
   edge [
@@ -649,10 +669,6 @@ graph [
   ]
   edge [
     source 0
-    target 1
-  ]
-  edge [
-    source 0
     target 31
   ]
   edge [
@@ -686,10 +702,6 @@ graph [
   edge [
     source 0
     target 39
-  ]
-  edge [
-    source 0
-    target 2
   ]
   edge [
     source 0
@@ -849,10 +861,6 @@ graph [
   ]
   edge [
     source 0
-    target 3
-  ]
-  edge [
-    source 0
     target 79
   ]
   edge [
@@ -864,36 +872,20 @@ graph [
     target 81
   ]
   edge [
-    source 1
-    target 61
+    source 0
+    target 82
+  ]
+  edge [
+    source 0
+    target 83
+  ]
+  edge [
+    source 0
+    target 84
   ]
   edge [
     source 1
-    target 2
-  ]
-  edge [
-    source 1
-    target 38
-  ]
-  edge [
-    source 1
-    target 66
-  ]
-  edge [
-    source 1
-    target 16
-  ]
-  edge [
-    source 1
-    target 37
-  ]
-  edge [
-    source 1
-    target 54
-  ]
-  edge [
-    source 1
-    target 52
+    target 63
   ]
   edge [
     source 1
@@ -901,19 +893,47 @@ graph [
   ]
   edge [
     source 1
+    target 39
+  ]
+  edge [
+    source 1
+    target 68
+  ]
+  edge [
+    source 1
+    target 16
+  ]
+  edge [
+    source 1
+    target 38
+  ]
+  edge [
+    source 1
+    target 56
+  ]
+  edge [
+    source 1
+    target 54
+  ]
+  edge [
+    source 1
+    target 43
+  ]
+  edge [
+    source 1
     target 21
   ]
   edge [
     source 1
-    target 49
+    target 51
   ]
   edge [
     source 1
-    target 45
+    target 47
   ]
   edge [
     source 1
-    target 55
+    target 57
   ]
   edge [
     source 1
@@ -921,7 +941,7 @@ graph [
   ]
   edge [
     source 1
-    target 36
+    target 37
   ]
   edge [
     source 1
@@ -941,11 +961,11 @@ graph [
   ]
   edge [
     source 1
-    target 57
+    target 59
   ]
   edge [
     source 1
-    target 39
+    target 40
   ]
   edge [
     source 1
@@ -953,11 +973,11 @@ graph [
   ]
   edge [
     source 1
-    target 59
+    target 61
   ]
   edge [
     source 1
-    target 71
+    target 73
   ]
   edge [
     source 1
@@ -965,7 +985,7 @@ graph [
   ]
   edge [
     source 1
-    target 82
+    target 85
   ]
   edge [
     source 1
@@ -973,43 +993,11 @@ graph [
   ]
   edge [
     source 1
-    target 78
+    target 80
   ]
   edge [
     source 1
-    target 67
-  ]
-  edge [
-    source 1
-    target 83
-  ]
-  edge [
-    source 1
-    target 33
-  ]
-  edge [
-    source 1
-    target 35
-  ]
-  edge [
-    source 1
-    target 5
-  ]
-  edge [
-    source 1
-    target 84
-  ]
-  edge [
-    source 1
-    target 76
-  ]
-  edge [
-    source 1
-    target 85
-  ]
-  edge [
-    source 1
-    target 18
+    target 69
   ]
   edge [
     source 1
@@ -1017,15 +1005,15 @@ graph [
   ]
   edge [
     source 1
-    target 25
+    target 34
   ]
   edge [
     source 1
-    target 74
+    target 36
   ]
   edge [
     source 1
-    target 15
+    target 5
   ]
   edge [
     source 1
@@ -1033,7 +1021,39 @@ graph [
   ]
   edge [
     source 1
-    target 34
+    target 78
+  ]
+  edge [
+    source 1
+    target 88
+  ]
+  edge [
+    source 1
+    target 18
+  ]
+  edge [
+    source 1
+    target 89
+  ]
+  edge [
+    source 1
+    target 25
+  ]
+  edge [
+    source 1
+    target 76
+  ]
+  edge [
+    source 1
+    target 15
+  ]
+  edge [
+    source 1
+    target 90
+  ]
+  edge [
+    source 1
+    target 35
   ]
   edge [
     source 1
@@ -1045,19 +1065,23 @@ graph [
   ]
   edge [
     source 1
-    target 88
+    target 91
   ]
   edge [
     source 1
-    target 43
+    target 45
   ]
   edge [
     source 1
-    target 31
+    target 32
   ]
   edge [
     source 1
-    target 40
+    target 92
+  ]
+  edge [
+    source 1
+    target 42
   ]
   edge [
     source 1
@@ -1069,7 +1093,7 @@ graph [
   ]
   edge [
     source 1
-    target 89
+    target 93
   ]
   edge [
     source 1
@@ -1077,23 +1101,7 @@ graph [
   ]
   edge [
     source 1
-    target 58
-  ]
-  edge [
-    source 1
-    target 90
-  ]
-  edge [
-    source 1
-    target 91
-  ]
-  edge [
-    source 1
-    target 92
-  ]
-  edge [
-    source 1
-    target 93
+    target 60
   ]
   edge [
     source 1
@@ -1105,14 +1113,6 @@ graph [
   ]
   edge [
     source 1
-    target 73
-  ]
-  edge [
-    source 1
-    target 50
-  ]
-  edge [
-    source 1
     target 96
   ]
   edge [
@@ -1121,23 +1121,7 @@ graph [
   ]
   edge [
     source 1
-    target 44
-  ]
-  edge [
-    source 1
-    target 9
-  ]
-  edge [
-    source 1
-    target 62
-  ]
-  edge [
-    source 1
     target 98
-  ]
-  edge [
-    source 1
-    target 64
   ]
   edge [
     source 1
@@ -1145,7 +1129,11 @@ graph [
   ]
   edge [
     source 1
-    target 56
+    target 75
+  ]
+  edge [
+    source 1
+    target 52
   ]
   edge [
     source 1
@@ -1153,23 +1141,19 @@ graph [
   ]
   edge [
     source 1
-    target 77
-  ]
-  edge [
-    source 1
     target 101
   ]
   edge [
     source 1
-    target 42
+    target 46
   ]
   edge [
     source 1
-    target 63
+    target 9
   ]
   edge [
     source 1
-    target 60
+    target 64
   ]
   edge [
     source 1
@@ -1177,11 +1161,15 @@ graph [
   ]
   edge [
     source 1
+    target 66
+  ]
+  edge [
+    source 1
     target 103
   ]
   edge [
     source 1
-    target 47
+    target 58
   ]
   edge [
     source 1
@@ -1189,11 +1177,23 @@ graph [
   ]
   edge [
     source 1
-    target 10
+    target 79
   ]
   edge [
     source 1
     target 105
+  ]
+  edge [
+    source 1
+    target 44
+  ]
+  edge [
+    source 1
+    target 65
+  ]
+  edge [
+    source 1
+    target 62
   ]
   edge [
     source 1
@@ -1205,51 +1205,39 @@ graph [
   ]
   edge [
     source 1
+    target 49
+  ]
+  edge [
+    source 1
     target 108
+  ]
+  edge [
+    source 1
+    target 10
   ]
   edge [
     source 1
     target 109
   ]
   edge [
-    source 2
-    target 37
+    source 1
+    target 110
+  ]
+  edge [
+    source 1
+    target 111
+  ]
+  edge [
+    source 1
+    target 112
+  ]
+  edge [
+    source 1
+    target 113
   ]
   edge [
     source 2
-    target 66
-  ]
-  edge [
-    source 2
-    target 16
-  ]
-  edge [
-    source 2
-    target 54
-  ]
-  edge [
-    source 2
-    target 55
-  ]
-  edge [
-    source 2
-    target 61
-  ]
-  edge [
-    source 2
-    target 67
-  ]
-  edge [
-    source 2
-    target 52
-  ]
-  edge [
-    source 2
-    target 41
-  ]
-  edge [
-    source 2
-    target 29
+    target 31
   ]
   edge [
     source 2
@@ -1257,7 +1245,47 @@ graph [
   ]
   edge [
     source 2
-    target 34
+    target 68
+  ]
+  edge [
+    source 2
+    target 16
+  ]
+  edge [
+    source 2
+    target 56
+  ]
+  edge [
+    source 2
+    target 57
+  ]
+  edge [
+    source 2
+    target 63
+  ]
+  edge [
+    source 2
+    target 69
+  ]
+  edge [
+    source 2
+    target 54
+  ]
+  edge [
+    source 2
+    target 43
+  ]
+  edge [
+    source 2
+    target 29
+  ]
+  edge [
+    source 2
+    target 39
+  ]
+  edge [
+    source 2
+    target 35
   ]
   edge [
     source 2
@@ -1265,15 +1293,15 @@ graph [
   ]
   edge [
     source 2
-    target 49
+    target 51
   ]
   edge [
     source 2
-    target 83
+    target 86
   ]
   edge [
     source 2
-    target 71
+    target 73
   ]
   edge [
     source 2
@@ -1289,47 +1317,11 @@ graph [
   ]
   edge [
     source 2
-    target 45
+    target 47
   ]
   edge [
     source 2
-    target 85
-  ]
-  edge [
-    source 2
-    target 89
-  ]
-  edge [
-    source 2
-    target 33
-  ]
-  edge [
-    source 2
-    target 27
-  ]
-  edge [
-    source 2
-    target 57
-  ]
-  edge [
-    source 2
-    target 43
-  ]
-  edge [
-    source 2
-    target 30
-  ]
-  edge [
-    source 2
-    target 73
-  ]
-  edge [
-    source 2
-    target 82
-  ]
-  edge [
-    source 2
-    target 84
+    target 88
   ]
   edge [
     source 2
@@ -1337,7 +1329,43 @@ graph [
   ]
   edge [
     source 2
-    target 88
+    target 34
+  ]
+  edge [
+    source 2
+    target 27
+  ]
+  edge [
+    source 2
+    target 59
+  ]
+  edge [
+    source 2
+    target 45
+  ]
+  edge [
+    source 2
+    target 30
+  ]
+  edge [
+    source 2
+    target 75
+  ]
+  edge [
+    source 2
+    target 85
+  ]
+  edge [
+    source 2
+    target 87
+  ]
+  edge [
+    source 2
+    target 97
+  ]
+  edge [
+    source 2
+    target 91
   ]
   edge [
     source 2
@@ -1349,39 +1377,15 @@ graph [
   ]
   edge [
     source 2
-    target 92
+    target 96
   ]
   edge [
     source 2
-    target 36
+    target 37
   ]
   edge [
     source 2
-    target 58
-  ]
-  edge [
-    source 2
-    target 39
-  ]
-  edge [
-    source 2
-    target 59
-  ]
-  edge [
-    source 2
-    target 76
-  ]
-  edge [
-    source 2
-    target 56
-  ]
-  edge [
-    source 2
-    target 78
-  ]
-  edge [
-    source 2
-    target 35
+    target 60
   ]
   edge [
     source 2
@@ -1389,7 +1393,35 @@ graph [
   ]
   edge [
     source 2
-    target 99
+    target 61
+  ]
+  edge [
+    source 2
+    target 78
+  ]
+  edge [
+    source 2
+    target 58
+  ]
+  edge [
+    source 2
+    target 80
+  ]
+  edge [
+    source 2
+    target 36
+  ]
+  edge [
+    source 2
+    target 42
+  ]
+  edge [
+    source 2
+    target 103
+  ]
+  edge [
+    source 2
+    target 92
   ]
   edge [
     source 2
@@ -1397,39 +1429,39 @@ graph [
   ]
   edge [
     source 2
-    target 74
+    target 76
   ]
   edge [
     source 2
-    target 100
+    target 104
   ]
   edge [
     source 2
-    target 87
+    target 90
   ]
   edge [
     source 2
-    target 31
+    target 32
   ]
   edge [
     source 2
-    target 97
+    target 101
   ]
   edge [
     source 2
-    target 86
+    target 89
   ]
   edge [
     source 2
-    target 91
+    target 95
   ]
   edge [
     source 2
-    target 44
+    target 46
   ]
   edge [
     source 2
-    target 110
+    target 114
   ]
   edge [
     source 2
@@ -1465,43 +1497,15 @@ graph [
   ]
   edge [
     source 2
-    target 102
-  ]
-  edge [
-    source 2
     target 106
   ]
   edge [
     source 2
-    target 104
+    target 110
   ]
   edge [
     source 2
-    target 105
-  ]
-  edge [
-    source 2
-    target 101
-  ]
-  edge [
-    source 2
-    target 6
-  ]
-  edge [
-    source 2
-    target 94
-  ]
-  edge [
-    source 2
-    target 3
-  ]
-  edge [
-    source 2
-    target 96
-  ]
-  edge [
-    source 2
-    target 60
+    target 108
   ]
   edge [
     source 2
@@ -1509,23 +1513,27 @@ graph [
   ]
   edge [
     source 2
-    target 103
+    target 105
   ]
   edge [
     source 2
-    target 111
+    target 6
   ]
   edge [
     source 2
-    target 90
+    target 98
   ]
   edge [
     source 2
-    target 112
+    target 81
   ]
   edge [
     source 2
-    target 28
+    target 100
+  ]
+  edge [
+    source 2
+    target 62
   ]
   edge [
     source 2
@@ -1533,15 +1541,7 @@ graph [
   ]
   edge [
     source 2
-    target 47
-  ]
-  edge [
-    source 2
-    target 22
-  ]
-  edge [
-    source 2
-    target 114
+    target 107
   ]
   edge [
     source 2
@@ -1549,7 +1549,7 @@ graph [
   ]
   edge [
     source 2
-    target 4
+    target 94
   ]
   edge [
     source 2
@@ -1557,95 +1557,51 @@ graph [
   ]
   edge [
     source 2
-    target 75
+    target 28
   ]
   edge [
     source 2
-    target 63
-  ]
-  edge [
-    source 2
-    target 26
-  ]
-  edge [
-    source 3
-    target 72
-  ]
-  edge [
-    source 3
     target 117
   ]
   edge [
-    source 3
+    source 2
+    target 49
+  ]
+  edge [
+    source 2
+    target 22
+  ]
+  edge [
+    source 2
     target 118
   ]
   edge [
-    source 3
-    target 81
-  ]
-  edge [
-    source 3
+    source 2
     target 119
   ]
   edge [
-    source 3
-    target 116
-  ]
-  edge [
-    source 3
-    target 75
-  ]
-  edge [
-    source 3
+    source 2
     target 120
   ]
   edge [
-    source 3
+    source 2
     target 121
   ]
   edge [
-    source 3
-    target 89
+    source 2
+    target 77
   ]
   edge [
-    source 3
-    target 100
-  ]
-  edge [
-    source 3
-    target 23
-  ]
-  edge [
-    source 3
+    source 2
     target 65
   ]
   edge [
-    source 3
-    target 46
-  ]
-  edge [
-    source 3
-    target 110
-  ]
-  edge [
-    source 3
-    target 34
-  ]
-  edge [
-    source 3
+    source 2
     target 26
   ]
   edge [
     source 3
-    target 47
-  ]
-  edge [
-    source 3
-    target 60
-  ]
-  edge [
-    source 3
-    target 10
+    target 74
   ]
   edge [
     source 3
@@ -1657,19 +1613,19 @@ graph [
   ]
   edge [
     source 3
-    target 73
-  ]
-  edge [
-    source 3
-    target 28
-  ]
-  edge [
-    source 3
-    target 68
+    target 84
   ]
   edge [
     source 3
     target 124
+  ]
+  edge [
+    source 3
+    target 121
+  ]
+  edge [
+    source 3
+    target 77
   ]
   edge [
     source 3
@@ -1681,35 +1637,15 @@ graph [
   ]
   edge [
     source 3
-    target 127
+    target 93
   ]
   edge [
     source 3
-    target 115
+    target 104
   ]
   edge [
     source 3
-    target 58
-  ]
-  edge [
-    source 3
-    target 14
-  ]
-  edge [
-    source 3
-    target 43
-  ]
-  edge [
-    source 3
-    target 128
-  ]
-  edge [
-    source 3
-    target 76
-  ]
-  edge [
-    source 3
-    target 129
+    target 23
   ]
   edge [
     source 3
@@ -1717,11 +1653,59 @@ graph [
   ]
   edge [
     source 3
-    target 130
+    target 48
   ]
   edge [
     source 3
-    target 56
+    target 114
+  ]
+  edge [
+    source 3
+    target 35
+  ]
+  edge [
+    source 3
+    target 26
+  ]
+  edge [
+    source 3
+    target 49
+  ]
+  edge [
+    source 3
+    target 62
+  ]
+  edge [
+    source 3
+    target 10
+  ]
+  edge [
+    source 3
+    target 127
+  ]
+  edge [
+    source 3
+    target 128
+  ]
+  edge [
+    source 3
+    target 75
+  ]
+  edge [
+    source 3
+    target 28
+  ]
+  edge [
+    source 3
+    target 70
+  ]
+  edge [
+    source 3
+    target 129
+  ]
+  edge [
+    source 3
+    target 130
   ]
   edge [
     source 3
@@ -1729,19 +1713,23 @@ graph [
   ]
   edge [
     source 3
-    target 51
-  ]
-  edge [
-    source 3
-    target 66
-  ]
-  edge [
-    source 3
-    target 29
-  ]
-  edge [
-    source 3
     target 132
+  ]
+  edge [
+    source 3
+    target 119
+  ]
+  edge [
+    source 3
+    target 60
+  ]
+  edge [
+    source 3
+    target 14
+  ]
+  edge [
+    source 3
+    target 45
   ]
   edge [
     source 3
@@ -1749,7 +1737,27 @@ graph [
   ]
   edge [
     source 3
-    target 21
+    target 78
+  ]
+  edge [
+    source 3
+    target 134
+  ]
+  edge [
+    source 3
+    target 69
+  ]
+  edge [
+    source 3
+    target 135
+  ]
+  edge [
+    source 3
+    target 58
+  ]
+  edge [
+    source 3
+    target 136
   ]
   edge [
     source 3
@@ -1757,55 +1765,39 @@ graph [
   ]
   edge [
     source 3
-    target 16
+    target 53
   ]
   edge [
-    source 4
-    target 101
+    source 3
+    target 68
   ]
   edge [
-    source 4
-    target 84
+    source 3
+    target 29
   ]
   edge [
-    source 4
-    target 57
+    source 3
+    target 137
   ]
   edge [
-    source 4
-    target 94
-  ]
-  edge [
-    source 4
-    target 88
-  ]
-  edge [
-    source 4
-    target 91
-  ]
-  edge [
-    source 4
-    target 86
-  ]
-  edge [
-    source 4
+    source 3
     target 92
   ]
   edge [
-    source 4
-    target 44
+    source 3
+    target 138
   ]
   edge [
-    source 4
-    target 96
+    source 3
+    target 21
   ]
   edge [
-    source 4
-    target 78
+    source 3
+    target 43
   ]
   edge [
-    source 4
-    target 103
+    source 3
+    target 16
   ]
   edge [
     source 4
@@ -1813,15 +1805,63 @@ graph [
   ]
   edge [
     source 4
-    target 11
+    target 87
   ]
   edge [
     source 4
-    target 37
+    target 59
+  ]
+  edge [
+    source 4
+    target 98
+  ]
+  edge [
+    source 4
+    target 91
+  ]
+  edge [
+    source 4
+    target 95
+  ]
+  edge [
+    source 4
+    target 89
+  ]
+  edge [
+    source 4
+    target 96
+  ]
+  edge [
+    source 4
+    target 46
+  ]
+  edge [
+    source 4
+    target 100
+  ]
+  edge [
+    source 4
+    target 80
   ]
   edge [
     source 4
     target 107
+  ]
+  edge [
+    source 4
+    target 109
+  ]
+  edge [
+    source 4
+    target 11
+  ]
+  edge [
+    source 4
+    target 38
+  ]
+  edge [
+    source 4
+    target 111
   ]
   edge [
     source 4
@@ -1833,35 +1873,23 @@ graph [
   ]
   edge [
     source 4
-    target 55
+    target 57
   ]
   edge [
     source 4
-    target 93
+    target 97
   ]
   edge [
     source 4
-    target 99
+    target 103
   ]
   edge [
     source 4
-    target 112
+    target 116
   ]
   edge [
     source 4
-    target 54
-  ]
-  edge [
-    source 4
-    target 82
-  ]
-  edge [
-    source 4
-    target 74
-  ]
-  edge [
-    source 4
-    target 134
+    target 56
   ]
   edge [
     source 4
@@ -1869,63 +1897,19 @@ graph [
   ]
   edge [
     source 4
+    target 76
+  ]
+  edge [
+    source 4
+    target 139
+  ]
+  edge [
+    source 4
+    target 88
+  ]
+  edge [
+    source 4
     target 20
-  ]
-  edge [
-    source 4
-    target 62
-  ]
-  edge [
-    source 4
-    target 35
-  ]
-  edge [
-    source 4
-    target 39
-  ]
-  edge [
-    source 4
-    target 83
-  ]
-  edge [
-    source 4
-    target 114
-  ]
-  edge [
-    source 4
-    target 102
-  ]
-  edge [
-    source 4
-    target 135
-  ]
-  edge [
-    source 4
-    target 33
-  ]
-  edge [
-    source 4
-    target 40
-  ]
-  edge [
-    source 4
-    target 90
-  ]
-  edge [
-    source 4
-    target 8
-  ]
-  edge [
-    source 4
-    target 69
-  ]
-  edge [
-    source 4
-    target 12
-  ]
-  edge [
-    source 4
-    target 29
   ]
   edge [
     source 4
@@ -1937,6 +1921,66 @@ graph [
   ]
   edge [
     source 4
+    target 40
+  ]
+  edge [
+    source 4
+    target 86
+  ]
+  edge [
+    source 4
+    target 118
+  ]
+  edge [
+    source 4
+    target 106
+  ]
+  edge [
+    source 4
+    target 140
+  ]
+  edge [
+    source 4
+    target 34
+  ]
+  edge [
+    source 4
+    target 42
+  ]
+  edge [
+    source 4
+    target 94
+  ]
+  edge [
+    source 4
+    target 8
+  ]
+  edge [
+    source 4
+    target 71
+  ]
+  edge [
+    source 4
+    target 12
+  ]
+  edge [
+    source 4
+    target 29
+  ]
+  edge [
+    source 4
+    target 66
+  ]
+  edge [
+    source 4
+    target 37
+  ]
+  edge [
+    source 4
+    target 41
+  ]
+  edge [
+    source 4
     target 18
   ]
   edge [
@@ -1945,11 +1989,11 @@ graph [
   ]
   edge [
     source 4
-    target 71
+    target 73
   ]
   edge [
     source 4
-    target 95
+    target 99
   ]
   edge [
     source 4
