@@ -1,5 +1,11 @@
 # Construction_analysis with word embedding 
 
+###Project
+- Data Aanalysis with word2vec from NYT Articles
+- Time series analysis
+- BIM , Science of Science
+
+
 ### List of 100 Similiar word
 - Similar_words_100
 
