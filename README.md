@@ -1,6 +1,6 @@
 # Construction_analysis with word embedding 
 
-###Project
+### Project
 - Data Aanalysis with word2vec from NYT Articles
 - Time series analysis
 - BIM , Science of Science
